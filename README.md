@@ -22,3 +22,9 @@ $ pip install fastapi[standard]
 fastapi dev main.py
 ```
 
+## 003 Request Body
+
+[https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=1908s]
+
+Current: 32:32
+
