@@ -28,3 +28,7 @@ fastapi dev main.py
 
 Current: 32:32
 
+## 004 Reading and setting headers
+
+[https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=2351s]
+
