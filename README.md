@@ -32,3 +32,7 @@ Current: 32:32
 
 [https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=2351s]
 
+## 005 Build a REST API on a Python List
+
+[https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=2983s]
+
