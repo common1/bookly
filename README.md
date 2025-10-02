@@ -36,3 +36,7 @@ Current: 32:32
 
 [https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=2983s]
 
+## 006 Organizing API Paths with Routers
+
+[https://www.youtube.com/watch?v=TO4aQ3ghFOc&t=5017s]
+
